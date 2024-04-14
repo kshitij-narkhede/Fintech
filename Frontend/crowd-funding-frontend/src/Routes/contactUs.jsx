@@ -12,16 +12,13 @@ const AboutUs = () => {
       <div className={styles.container}>
         <h1 className={styles.header}>CONTACT US</h1>
         <div className={styles.content}>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
-          consequatur ea quia inventore excepturi officiis deserunt sequi, esse
-          nobis laudantium tempora aut, animi praesentium id! Necessitatibus
-          laborum vitae vero at!
+        The essence of goodness radiates through the act of donating to charity. It embodies empathy, generosity, and a commitment to uplift those in need. Each contribution, no matter how small, echoes a profound message of solidarity and compassion, shaping a world where kindness knows no bounds.
           <br />
           <br />
           <div className={styles.map}>
             <iframe
               title="Map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3578.376170291284!2d78.17195011486825!3d26.249452083417705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3976c6e5d32a4d53%3A0xf834069adc0c9b89!2sIndian%20Institute%20of%20Information%20Technology%20and%20Management%20Gwalior!5e0!3m2!1sen!2sin!4v1608394606599!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3784.5316769837323!2d73.8842823!3d18.459561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2eaf4662547c9%3A0xd96690b0786458f5!2sVIIT%20-%20Computer%20Science%20Department!5e0!3m2!1sen!2sin!4v1713074107485!5m2!1sen!2sin"
               width="600"
               height="380"
               frameBorder="0"
@@ -41,16 +38,16 @@ const AboutUs = () => {
             <div className={`col-md-4 ${styles.details}`}>
               <h1 className={styles.inheader}>Our Office</h1>
               <p className={styles.incontent}>
-                <b>ROTARACT IIITM</b>
+                <b>SAHYOG</b>
                 <br />
-                IIITM Campus,
+                VIIT Pune,
                 <br />
-                Morena Link Rd,
-                <br /> Gwalior, Madhya Pradesh 474015
+                Kondhwa,
+                <br /> Pune, Maharashtra 411048
                 <br /> <br />
-                For any queries, reach us out at email : rotaract@iiitm.ac.in
+                For any queries, reach us out at email : 
                 <br />
-                +91-9876543210
+                +91-9359257953
               </p>
             </div>
           </div>

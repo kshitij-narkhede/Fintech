@@ -1,6 +1,6 @@
-JWT_SECRET = <secret-key>
+JWT_SECRET = eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTcxMzA3NTkwMCwiaWF0IjoxNzEzMDc1OTAwfQ.ZXsJ9MKZNeMlm1OsRQQeZTT3qWI1msyWzAvHukRsxdo
 
-MONGODB_URI = <Your Database URL>
+MONGODB_URI = "mongodb+srv://kshitij:<10032004>@cluster0.drljcil.mongodb.net/"
 
 mid = "Your PayTM Merchant ID here" (https://dashboard.paytm.com/next/apikeys)
 key = "Your PayTM Merchant API key here" (https://dashboard.paytm.com/next/apikeys)

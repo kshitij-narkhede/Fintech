@@ -9,16 +9,7 @@ const WhyUs = () => {
         <div className={`col-md-8 ${styles.whyUs}`}>
           <h1 className={styles.header}>Why us ?</h1>
           <p className={styles.para}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
-            aut perspiciatis laborum repellat esse hic nihil a placeat accusamus
-            fugit. Iusto earum ea esse beatae quae soluta vero cupiditate
-            commodi.Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Obcaecati aut perspiciatis laborum repellat esse hic nihil a placeat
-            accusamus fugit. Iusto earum ea esse beatae quae soluta vero
-            cupiditate commodi.Lorem ipsum dolor sit amet consectetur
-            adipisicing elit. Obcaecati aut perspiciatis laborum repellat esse
-            hic nihil a placeat accusamus fugit. Iusto earum ea esse beatae quae
-            soluta vero cupiditate commodi.
+          The essence of goodness radiates through the act of donating to charity. It embodies empathy, generosity, and a commitment to uplift those in need. Each contribution, no matter how small, echoes a profound message of solidarity and compassion, shaping a world where kindness knows no bounds.
           </p>
         </div>
         <div className="col-md-4">

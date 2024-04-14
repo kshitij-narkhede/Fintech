@@ -20,43 +20,16 @@ const AboutUs = () => {
         </div>
         <p className={styles.content}>
           <br />
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
-          consequatur ea quia inventore excepturi officiis deserunt sequi, esse
-          nobis laudantium tempora aut, animi praesentium id! Necessitatibus
-          laborum vitae vero at!Lorem ipsum dolor, sit amet consectetur
-          adipisicing elit. Vero consequatur ea quia inventore excepturi
-          officiis deserunt sequi, esse nobis laudantium tempora aut, animi
-          praesentium id! Necessitatibus laborum vitae vero at!
+          The essence of goodness radiates through the act of donating to charity. It embodies empathy, generosity, and a commitment to uplift those in need. Each contribution, no matter how small, echoes a profound message of solidarity and compassion, shaping a world where kindness knows no bounds.
           <br />
           <br />
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
-          consequatur ea quia inventore excepturi officiis deserunt sequi, esse
-          nobis laudantium tempora aut, animi praesentium id! Necessitatibus
-          laborum vitae vero at!Lorem ipsum dolor, sit amet consectetur
-          adipisicing elit. Vero consequatur ea quia inventore excepturi
-          officiis deserunt sequi, esse nobis laudantium tempora aut, animi
-          praesentium id! Necessitatibus laborum vitae vero at!
+          The essence of goodness radiates through the act of donating to charity. It embodies empathy, generosity, and a commitment to uplift those in need. Each contribution, no matter how small, echoes a profound message of solidarity and compassion, shaping a world where kindness knows no bounds.
           <br />
           <br />
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
-          consequatur ea quia inventore excepturi officiis deserunt sequi, esse
-          nobis laudantium tempora aut, animi praesentium id! Necessitatibus
-          laborum vitae vero at! Lorem ipsum dolor, sit amet consectetur
-          adipisicing elit. Vero consequatur ea quia inventore excepturi
-          officiis deserunt sequi, esse nobis laudantium tempora aut, animi
-          praesentium id! Necessitatibus laborum vitae vero at!
+          The essence of goodness radiates through the act of donating to charity. It embodies empathy, generosity, and a commitment to uplift those in need. Each contribution, no matter how small, echoes a profound message of solidarity and compassion, shaping a world where kindness knows no bounds.
           <br />
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
-          consequatur ea quia inventore excepturi officiis deserunt sequi, esse
-          nobis laudantium tempora aut, animi praesentium id! Necessitatibus
-          laborum vitae vero at! Lorem ipsum dolor, sit amet consectetur
-          adipisicing elit. Vero consequatur ea quia inventore excepturi
-          officiis deserunt sequi, esse nobis laudantium tempora aut, animi
-          praesentium id! Necessitatibus laborum vitae vero at!Lorem ipsum
-          dolor, sit amet consectetur adipisicing elit. Vero consequatur ea quia
-          inventore excepturi officiis deserunt sequi, esse nobis laudantium
-          tempora aut, animi praesentium id! Necessitatibus laborum vitae vero
-          at!
+          The essence of goodness radiates through the act of donating to charity. It embodies empathy, generosity, and a commitment to uplift those in need. Each contribution, no matter how small, echoes a profound message of solidarity and compassion, shaping a world where kindness knows no bounds.
+          
           <br />
         </p>
       </div>

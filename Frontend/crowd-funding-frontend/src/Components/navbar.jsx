@@ -15,7 +15,7 @@ const Navbar = (props) => {
       >
         <li className={styles.title}>
           <Link className={styles.brand} to="/">
-            <img src="/navImage.png" alt="title" />
+            <img src="logo192.png" alt="title" />
           </Link>
         </li>
 
@@ -40,17 +40,21 @@ const Navbar = (props) => {
         <div className="collapse navbar-collapse" id="navbarToggler">
           {/* <Link to="/admin/login">loginPage</Link> */}
           <ul className={`navbar-nav   `} style={{ margin: "0 0 0 auto" }}>
+            
             <li style={{ float: "right" }}>
               <Link to="/about-us">ABOUT US</Link>
             </li>
+
             <li style={{ float: "right" }}>
               <Link to="/contact-us">CONTACT US</Link>
             </li>
+
             {localStorage.getItem("token") && (
               <li style={{ float: "right" }}>
                 <Link to="/admin/dashboard">Admin-Dashboard</Link>
               </li>
             )}
+
           </ul>
         </div>
       </nav>
